@@ -21,3 +21,23 @@ paragraf numer dwa
   
   <img src="/IMG_20220614_104604.jpg" style="width: 960px; height: 540px;" />
   <img src="/IMG_20220614_104604.jpg" style="width: 480px; height: 270px;" />
+
+<table style="border: 2px solid blue;">
+
+ <tr>
+
+  <th>Nagłówek 1</th>
+
+  <th>Nagłówek 2</th>
+
+ </tr>
+
+ <tr>
+
+  <td>Komórka 1</td>
+
+  <td>Komórka 2</td>
+
+ </tr>
+
+</table>
