@@ -12,10 +12,18 @@ paragraf numer dwa
 
 ![pole](IMG_20220611_173228.jpg)
 
+<style type="text/css">
 
+ p {
+
+  color: yellow;
+
+ }
+
+</style>
   <body> 
   <div class="title">wystylizowane</div> 
-  <p color: blue;>wystylizowane</p> 
+  <p>wystylizowane</p> 
   <p style="font-size: 1pt;">Koniec</p> 
   </body>
   
