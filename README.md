@@ -13,8 +13,7 @@ paragraf numer dwa
 
 
   <body> 
-  <div class="title">Ala ma kota</div> 
-  <p>Ala ma kota</p> 
-  <p style="font-size: 8pt;">Koniec</p> 
-  Zwykły tekst 
+  <div class="title">wystylizowane</div> 
+  <p>wystylizowane</p> 
+  <p style="font-size: 1pt;">Koniec</p> 
   </body>
