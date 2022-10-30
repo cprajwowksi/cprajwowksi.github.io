@@ -19,3 +19,4 @@ paragraf numer dwa
   </body>
   
   <img src="/IMG_20220614_104604.jpg" style="width: 960px; height: 540px;" />
+  <img src="/IMG_20220614_104604.jpg" style="width: 480px; height: 270px;" />
