@@ -15,7 +15,7 @@ paragraf numer dwa
 
   <body> 
   <div class="title">wystylizowane</div> 
-  <p>wystylizowane</p> 
+  <p color: blue;>wystylizowane</p> 
   <p style="font-size: 1pt;">Koniec</p> 
   </body>
   
