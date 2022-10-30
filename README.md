@@ -1,4 +1,4 @@
-background-image: url("/IMG_20220614_104604.jpg");
+background-image: url(IMG_20220614_104604.jpg);
 # cprajwowksi.github.io
 ## cześć
 
