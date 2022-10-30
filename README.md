@@ -17,3 +17,5 @@ paragraf numer dwa
   <p>wystylizowane</p> 
   <p style="font-size: 1pt;">Koniec</p> 
   </body>
+  
+  <img src="/IMG_20220611_173228.jpg" />
