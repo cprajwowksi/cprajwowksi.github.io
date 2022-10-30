@@ -18,4 +18,4 @@ paragraf numer dwa
   <p style="font-size: 1pt;">Koniec</p> 
   </body>
   
-  <img src="/IMG_20220614_104604.jpg style=width: 960px; height: 540px" />
+  <img src="/IMG_20220614_104604.jpg" style="width: 960px; height: 540px;" />
